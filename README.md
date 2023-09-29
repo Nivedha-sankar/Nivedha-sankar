@@ -1,10 +1,3 @@
-
-
-# Welcome to my GitHub page  <img src="https://raw.githubusercontent.com/Nivedha-sankar/Nivedha-sankar/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
-
-
-
-## 👤 About Me
 <h2 align="center">नमस्ते (Namaste)🙏🏻, I'm  Nivedha Sankar!</h2>
 I’m an aspiring full-stack development student with an array of knowledge in many different frontend and backend languages, responsive frameworks, and databases with an ample amount of code practices. I've completed my graduation in Anna University with a Master's degree in computer Application. And I've worked in product based company as a software engineer for 9 Months. Where I learnt different technologies and earned better coding experiences in java, Springboot and javascript.
 
@@ -22,6 +15,8 @@ I’m an aspiring full-stack development student with an array of knowledge in m
   &nbsp;
   <a href="https://leetcode.com/NivedhaSanklar" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </div>
+
+
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
