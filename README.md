@@ -1,6 +1,6 @@
 ### Hi there 👋
- 🔭 I’m currently working on improving my skillset
- 🌱 I’m currently learning Masters in Full_Stack Development
+ 🔭 I’m currently working on improving my skillset<br/>
+ 🌱 I’m currently learning Masters in Full-Stack Development
 ## Social & Contact
 ## Languages and Tools
 ## Profile Views
