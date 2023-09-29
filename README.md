@@ -5,8 +5,8 @@
 
 
 ## 👤 About Me
-
-Hi there, my name is Nivedha Sankar. I’m an aspiring full-stack development student with an array of knowledge in many different frontend and backend languages, responsive frameworks, and databases with an ample amount of code practices. I've completed my graduation in Anna University with a Master's degree in computer Application. And I've worked in product based company as a software engineer for 9 Months. Where I learnt different technologies and earned better coding experiences in java, Springboot and javascript.
+<h2 align="center">नमस्ते (Namaste)🙏🏻, I'm  Nivedha Sankar!</h2>
+I’m an aspiring full-stack development student with an array of knowledge in many different frontend and backend languages, responsive frameworks, and databases with an ample amount of code practices. I've completed my graduation in Anna University with a Master's degree in computer Application. And I've worked in product based company as a software engineer for 9 Months. Where I learnt different technologies and earned better coding experiences in java, Springboot and javascript.
 
 
 ## 📇 Social & Contact
@@ -22,25 +22,18 @@ Hi there, my name is Nivedha Sankar. I’m an aspiring full-stack development st
   &nbsp;
   <a href="https://leetcode.com/NivedhaSanklar" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </div>
+## Languages and Tools
 
-
-
-
-## ⚙ Skills
-
-
-### 👨‍💻 Programming
-
-<div align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-</div>
-
-
-
-### 🛠 Libraries
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white)
