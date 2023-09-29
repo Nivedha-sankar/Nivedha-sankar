@@ -6,10 +6,11 @@
 
 ## 👤 About Me
 
-Hi there, my name is Nivedha Sankar.
-I’m an aspiring full-stack development student with an array of knowledge in many different frontend and backend languages, responsive frameworks, and databases with an ample amount of code practices. 
-I'm a graduate of Anna University with a Master's degree in computer Application.
-And I've worked in product based company as a software engineer for 9 Months. where I learnt new technologies and better coding experiences in java and javascript.
+Hi there, my name is Nivedha Sankar. <br/>
+I’m an aspiring full-stack development student with an array of knowledge in many different frontend and backend languages, responsive frameworks, and databases with an ample amount of code practices. <br/>
+I've completed my graduation in Anna University with a Master's degree in computer Application.<br/>
+And I've worked in product based company as a software engineer for 9 Months. Where I learnt different technologies and earned better coding experiences in java, Springboot and javascript.<br/>
+
 
 ## 📇 Social & Contact
 
